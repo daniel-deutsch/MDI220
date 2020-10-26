@@ -22,3 +22,13 @@
     ```
 
 6. Enjoy the code :)
+
+<br>
+
+## References
+
+[http://www.portalaction.com.br/inferencia/341-metodos-numericos-dos-estimadores-de-maxima-verossimilhanca][1]
+
+[http://ressources.unisciel.fr/ramses/519-21_probabilites/co/fa901_5_5.html][2]
+
+[http://www.de.ufpb.br/~tarciana/Probabilidade2/Aula9.pdf][3]
