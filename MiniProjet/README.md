@@ -1,4 +1,4 @@
-# TP2: Filter Banks
+# Mini Projet
 
 *By Daniel Jorge Deutsch*
 
